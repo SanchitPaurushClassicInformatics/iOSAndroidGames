@@ -10,3 +10,6 @@ This game will be played on 3*3 grid and The player who succeeds in placing thre
 
 ## MindSweeper Demo Game
 This game will be played on 10*10 grid and place Boom image at random places and remaining contains 1 which are not visible to user. if user can win by tapping all 1's.
+
+## LineBox Path Game
+This game will be played on 5*5 grid and It is a two player game just like dots and boxes.
