@@ -4,3 +4,6 @@ This is the game where user needs to break blocks though ball. User needs to kee
 
 ##FreeFlowGame 
 User needs to draw line between two same color dot.
+
+##Tic Tac Toe Game
+This game will be played on 3*3 grid and The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
